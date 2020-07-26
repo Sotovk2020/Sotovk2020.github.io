@@ -50,11 +50,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Ремонт смартфонов покупка продажа на савеловском ",
+        "meta_descr": "Интернет магазин сервиссный центр мобильной техники на тц Савеловская  Продажа покупка мобильных устройств. Смартфоны и акксесуары к ним. Ремонт любой сложности ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/app_icon-210x185.png"
       },
       "components": [
         {
